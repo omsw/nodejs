@@ -1,0 +1,22 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^4.0.0",
+    "extends-classes": "^1.0.5",
+    "mysql2": "^2.2.5",
+    "promise": "^8.1.0",
+    "sequelize": "^6.3.5",
+    "sequelize-auto": "^0.7.2",
+    "sequelize-cli": "^6.2.0",
+    "websocket": "^1.0.32"
+  }
+}

@@ -1,0 +1,4 @@
+2020-11-27T16:26:45.958Z :
+ 
+ [2,"77cf1b56-ee68-41a3-bc6a-83dab022a694","BootNotification",{"chargePointVendor":"Daimler","chargePointModel":"00001","firmwareVersion":"BT-U3.14-C3.83-D4.7.11-M1.02-PM1.02-S1.04"}]
+
